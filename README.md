@@ -1,5 +1,5 @@
 # Prácticas en ensamblador MIPS
-Este repositorio contiene todos los codigos desarrollados para la asignatura de Fundamentos de Computadoras que constan de:
+Este repositorio contiene todos los códigos desarrollados para la asignatura de Fundamentos de Computadoras que constan de:
 - [Practica 1](./Practica1)
 - [Practica 2](./Practica2)
 - [Practica 3](./Practica3)
@@ -7,8 +7,7 @@ Este repositorio contiene todos los codigos desarrollados para la asignatura de 
 
 Por último, también se planteaba una práctica final: [Enunciado de la práctica](./Enunciado.pdf)
 
-Esta práctica consiste en contruir un programa en lenguaje ensamblador de MIPS que recibe por teclado una cadena.
-Esta cadena estará compuesta por:
+Esta práctica consiste en contruir un programa en lenguaje ensamblador de MIPS que recibe por teclado una cadena que esta compuesta por:
 - Operación a realizar
 - Operando 1
 - Operando 2 (opcional)
