@@ -1,4 +1,4 @@
-# Practica 1
+# Práctica 1
 En esta carpeta se puede encontrar el código desarrollado para responder a la siguiente cuestion:
 
 **Reserve espacio en memoria para un vector de enteros de 32 bits con 100 componentes y escriba un programa que dé valores a dichas componentes según el siguiente algoritmo:**
