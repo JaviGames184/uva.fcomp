@@ -1,4 +1,3 @@
-#----- Mario Danov / Javier Ramos -----#
 .data
 Vector: .word -5, 10, -50
 	.space 388
